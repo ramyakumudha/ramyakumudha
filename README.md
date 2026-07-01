@@ -2,9 +2,7 @@
 
 ### MCA Graduate | Aspiring Data Analyst | E-commerce Operations
 
-# Hi, I'm Ramya 👋
 
-## MCA Graduate | Aspiring Data Analyst
 
 I am an MCA graduate with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data, identifying patterns, and transforming information into meaningful business insights. I am currently pursuing a Data Analytics program through Vishlesan Hub (IIT Patna) via Masai School.
 
